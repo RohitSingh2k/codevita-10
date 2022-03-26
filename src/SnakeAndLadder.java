@@ -111,6 +111,8 @@ public class SnakeAndLadder {
 
 /* 
 
+INPUTS : -
+========
 End S(Start) 98 S(7) 96 95 94 93 92 91
 81 82 L(99) 84 85 86 87 88 89 90
 80 79 78 77 76 75 74 73 72 71
